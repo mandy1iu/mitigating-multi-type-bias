@@ -7,3 +7,8 @@ For the model training section, you can locate the implementation code for the I
 The code for the CrowS-Pairs evaluation method is available in "crows_debias.py," with reference to Nangia et al. (2020).
 
 All experiment execution scripts and results are contained within "Experiments.ipynb."
+
+
+This repository makes use of codes from the following repository:
+
+[An empirical survey of the effectiveness of debiasing techniques for pre-trained language models](https://github.com/McGill-NLP/bias-bench)
